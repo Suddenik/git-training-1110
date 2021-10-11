@@ -1,0 +1,7 @@
+## Wlej wode do czajnika
+## Zagotuj wode
+## Wsyp herbate do kubka
+## when(woda_is_ready)
+## Wlej wode do kubka z herbata
+## Wait (5000) 
+## Return 
