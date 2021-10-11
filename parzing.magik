@@ -1,0 +1,8 @@
+_global parzenie <<
+_proc @parzenie()
+    _local l_herbata << get_torebke()
+    _local l_woda << get_water()
+
+    _return l_herbata * l_woda
+_endproc
+$
